@@ -45,3 +45,31 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.exe
+*.ilk
+*.pdb
+*.ipch
+*.tlog
+*.user
+*.idb
+*.rc
+*.log
+*.html
+*.gif
+*.xml
+*.png
+*.css
+*.filters
+*.cache
+*.lastbuildstate
+*.obj
+*.manifest
+*.res
+*.unsuccessfulbuild
+*.sdf
+*.suo
+tinyxml/Makefile
+*.txt
+tinyxml/tinyxmlSTL.vcxproj
+tinyxml/tinyXmlTest.vcxproj
+tinyxml/tinyXmlTestSTL.vcxproj
